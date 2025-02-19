@@ -1,0 +1,13 @@
+google-cloud-storage # If you're using Google Cloud Storage
+# Add any other dependencies your app requires
+
+# https://pypi.org/project/flask
+Flask
+
+# https://pypi.org/project/gunicorn
+gunicorn 
+
+google-generativeai
+
+pillow==11.1.0
+
