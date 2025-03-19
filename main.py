@@ -107,7 +107,7 @@ def index():
     index_html = """
     <html>
     <head><title>Upload Files</title></head>
-    <body bgcolor="green">
+    <body bgcolor="blue">
         <h1>Upload Image</h1>
         <form method="post" enctype="multipart/form-data" action="/upload">
             <div>
